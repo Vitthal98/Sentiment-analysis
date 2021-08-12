@@ -1,0 +1,1 @@
+This zip file contains self-sufficient codes to run and train word vectors. The training data has been downloaded into the code itself using nltk. Thus no external data samples need to be provided for training purposes. However, if you want to modify the number of training examples, please feel free to do so in the SGD_Optimizer function via the for loop.
