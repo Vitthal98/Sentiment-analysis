@@ -1,7 +1,7 @@
 # Sentiment-analysis
 *Implementing sentiment analysis from scratch without any external libraries and self-trained word vectors*
 
-This project was completed in partial requirement of the course SEL TOPICS FROM COMP SC (CS F441) offered during First Semester 2021-21 at BITS Pilani, Pilani Campus.
+This project was completed in partial requirement of the course SEL TOPICS FROM COMP SC (CS F441) offered during First Semester 2020-21 at BITS Pilani, Pilani Campus.
 
 The aim of this project is to understand word embeddings and sentiment analysis which form the basis of many standard NLP downstream tasks. The condition was that no external library was to be used except for generating visualizations.
 
