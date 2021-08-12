@@ -22,7 +22,7 @@ This was followed by data preprocessing which consisted of the the following tas
 - Skip-Gram Model (SG)
 - Skip-Gram with Negative Sampling (SGNS)
 
-A simple neural network was used for each implementation. In CBOW and Skip-gram, the activation function used is softmax whereas in Skip-gram with Negative Sampling, the activation function used is sigmoid.
+A simple neural network was used for each implementation. In CBOW and Skip-gram, the activation function used was softmax whereas in Skip-gram with Negative Sampling, the activation function used was sigmoid.
 
 Syntactic and semantic analogies were also computed for select word examples.
 
