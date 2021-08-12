@@ -41,3 +41,8 @@ The validation accuracy for sentiment analysis can be further improved by:
 - exploring other regularization techniques
 
 Kindly refer to the [report](https://github.com/Vitthal98/Sentiment-analysis/blob/master/stage%202/Vitthal_Bhandari_2017A7PS0136P_report.pdf) of stage 2 for a much more comprehensive review.
+
+#### Want to know more?
+For any doubts don't hesitate to contact me at vitthalbhandari98@gmail.com
+
+If you find our work helpful, do not forget to :star: the repository!
