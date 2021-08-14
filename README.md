@@ -26,7 +26,7 @@ A simple neural network was used for each implementation. In CBOW and Skip-gram,
 
 Syntactic and semantic analogies were also computed for select word examples.
 
-Please refer to the [project https://github.com/Vitthal98/Sentiment-analysis/blob/master/Problem%20Statement.pdfreport](https://github.com/Vitthal98/Sentiment-analysis/blob/master/stage%201/Vitthal_2017A7PS0136P_report.pdf) for a detailed, complete review of the methods, dataset, architecture, results and discussion.
+Please refer to the [project report](https://github.com/Vitthal98/Sentiment-analysis/blob/master/stage%201/Vitthal_2017A7PS0136P_report.pdf) for a detailed, complete review of the methods, dataset, architecture, results and discussion.
 
 ### Stage 2
 This stage was concerned with creating a sentiment analysis model on a Movies Review Dataset. The task was to predict the sentiment on a scale of 1 to 5 for each provided movie review.
