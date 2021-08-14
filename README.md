@@ -26,7 +26,7 @@ A simple neural network was used for each implementation. In CBOW and Skip-gram,
 
 Syntactic and semantic analogies were also computed for select word examples.
 
-Please refer to the [report](https://github.com/Vitthal98/Sentiment-analysis/blob/master/stage%201/Vitthal_2017A7PS0136P_report.pdf) for a detailed, complete review of the methods, dataset, architecture, results and discussion.
+Please refer to the [project https://github.com/Vitthal98/Sentiment-analysis/blob/master/Problem%20Statement.pdfreport](https://github.com/Vitthal98/Sentiment-analysis/blob/master/stage%201/Vitthal_2017A7PS0136P_report.pdf) for a detailed, complete review of the methods, dataset, architecture, results and discussion.
 
 ### Stage 2
 This stage was concerned with creating a sentiment analysis model on a Movies Review Dataset. The task was to predict the sentiment on a scale of 1 to 5 for each provided movie review.
@@ -40,7 +40,7 @@ The validation accuracy for sentiment analysis can be further improved by:
 - implementing an RNN/GRU/LSTM instead of a regular neural network.
 - exploring other regularization techniques
 
-Kindly refer to the [report](https://github.com/Vitthal98/Sentiment-analysis/blob/master/stage%202/Vitthal_Bhandari_2017A7PS0136P_report.pdf) of stage 2 for a much more comprehensive review.
+Kindly refer to the [problem statement](https://github.com/Vitthal98/Sentiment-analysis/blob/master/Problem%20Statement.pdf) and [project report](https://github.com/Vitthal98/Sentiment-analysis/blob/master/stage%202/Vitthal_Bhandari_2017A7PS0136P_report.pdf) of stage 2 for a much more comprehensive review.
 
 #### Want to know more?
 For any doubts don't hesitate to contact me at vitthalbhandari98@gmail.com
